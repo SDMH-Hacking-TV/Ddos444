@@ -14,7 +14,7 @@ clear
 toilet -f standard "•⊱•Mrlinkerrorsystem" -F gay
 echo
 echo $green"=========================================="
-echo $red"DoS AND DDoS ATTACK LAUCH VIA TOOL •⊱•SDMH-Hacking-TV"
+echo $yellow"DoS AND DDoS ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
 echo $green"=========================================="
 echo $red"===    ===    ===    ===   ===    ===   ==="
 echo $white"===    ===    ===    ===   ===    ===   ==="
