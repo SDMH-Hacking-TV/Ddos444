@@ -1,12 +1,7 @@
 # DDOS444 attack 2
 ```
-$ pkg update && pkg upgrade 
-$ pkg install git python2 
-$ pkg install git 
-$ git clone https://github.com/SDMH-Hacking-TV/Ddos555.git
-$ cd Ddos555
-$ ls 
-$ sh ddos.sh
+All command hear.you get command.
+Joint our facefook group.
 ```
 #Help for
 
