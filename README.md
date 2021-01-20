@@ -1,4 +1,4 @@
-# DDOS444 attack 2
+# DDOS444 attack
 ```
 All command hear.you get command.
 Joint our facefook group.
