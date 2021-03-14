@@ -3,7 +3,8 @@
 # WhatsApp :- 081249281196
 #RECODE ©®
 clear
-toilet -f standard "SDMH-Hacking-TV" -F gay
+toilet -f standard "SDMH-Hacking" -F gay
+toilet -f standard "    TV" -F gay
 echo 
 echo -e "\e[96m==========================================\e[0m";
 echo -e "\e[93mDos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV\e[0m";
@@ -37,7 +38,7 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 	echo -e "\e[91m[3].BOTNET ATTACK. #https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw\e[0m";
 	echo -e "\e[91m[4].EXIT TOOL.     #    Thank You\e[0m";
 	echo -e "\e[96m=============================================\e[0m";
-	echo $white "╭─","\e[93mSDMH-Hacking-TV\e[0m";
+	echo $white "╭─"$green"SDMH-Hacking-TV"
 	read -p " ╰─> " pil
 
 #DDOS
@@ -54,7 +55,7 @@ echo -e "\e[93m[3].PING OF DEADHT\e[0m";
 echo -e "\e[93m[4].POF ARMAGEDON LEVEL\e[0m";
 echo -e "\e[93m[5].LORIS\e[0m";
 echo -e "\e[96m=============================================\e[0m";
-echo $white "╭─";"\e[93mSDMH-Hacking-TV\e[0m";
+echo $white "╭─"$green"SDMH-Hacking-TV"
 read -p " ╰─> " ddos
 fi
 
@@ -105,7 +106,7 @@ echo -e "\e[93m[3].UFOSYN(PC)\e[0m";
 echo -e "\e[93m[4].XMAS(PC)\e[0m";
 echo -e "\e[93m[5].ANDROMEDA(TERMUX)\e[0m";
 echo -e "\e[96m=============================================\e[0m";
-echo $white "╭─"-e "\e[93mSDMH-Hacking-TV\e[0m";
+echo $white "╭─"$green"SDMH-Hacking-TV"
 read -p " ╰─> " dos
 fi
 
