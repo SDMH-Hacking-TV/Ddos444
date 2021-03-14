@@ -6,7 +6,7 @@ clear
 toilet -f standard "SDMH-Hacking-TV" -F gay
 echo 
 echo -e "\e[96m==========================================\e[0m";
-echo $yellow"Dos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
+echo -e "\e[93mDos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV\e[0m";
 echo -e "\e[96m==========================================\e[0m";
 echo -e "\e[91m===    ===    ===    ===   ===    ===   ===\e[0m";
 echo $white"===    ===    ===    ===   ===    ===   ==="
@@ -19,16 +19,16 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 	echo -e "\e[96m  |::::::::::/  \() ()/  \::::::::::|\e[0m";
 	echo -e "\e[91m  |:::::::::/{:-.) A (.-:}\:::::::::|\e[0m";
 	echo -e "\e[91m  |::::::::/  :-.\uuu/.-:  \::::::::|\e[0m";
-	echo $yellow" |===================================|"
+	echo -e "\e[93m |===================================|\e[0m";
 	echo -e "\e[96m |_________SDMH-Hacking-TV___________|\e[0m";
 	echo -e "\e[91m  | _________ | / || \ | __________ |\e[0m";
 	echo -e "\e[91m  |  |  |  |  | ====== |   |  |  |  |\e[0m";
 	echo -e "\e[91m  |  |--+--|  | |    | |   |--+--|  |\e[0m";
 	echo -e "\e[91m  |  |__|__|  | |   o| |   |__|__|  |\e[0m";
 	echo -e "\e[91m  |===========| |____| |============|\e[0m";
-	echo $yellow"  |-----------|________|------------|"
-	echo $yellow"   (=========/__________\=========)  "
-	echo $yellow"  ','',,,,' /____________\,,,'',','  "
+	echo -e "\e[93m  |-----------|________|------------|\e[0m";
+	echo -e "\e[93m   (=========/__________\=========)  \e[0m";
+	echo -e "\e[93m  ','',,,,' /____________\,,,'',','  \e[0m";
 	echo -e "\e[96m=============================================\e[0m";
 	echo $white"                  MENU                     "
 	echo -e "\e[96m=============================================\e[0m";
@@ -48,13 +48,13 @@ clear
 toilet -f slant "LIST DDOS" -F metal
 echo
 echo -e "\e[96m=============================================\e[0m";
-echo $yellow"[1].LOIC"
-echo $yellow"[2].AMNESIA"
-echo $yellow"[3].PING OF DEADHT"
-echo $yellow"[4].POF ARMAGEDON LEVEL"
-echo $yellow"[5].LORIS"
+echo -e "\e[93m[1].LOIC\e[0m";
+echo -e "\e[93m[2].AMNESIA\e[0m";
+echo -e "\e[93m[3].PING OF DEADHT\e[0m";
+echo -e "\e[93m[4].POF ARMAGEDON LEVEL\e[0m";
+echo -e "\e[93m[5].LORIS\e[0m";
 echo -e "\e[96m=============================================\e[0m";
-echo $white "╭─"$yellow"SDMH-Hacking-TV"
+echo $white "╭─"-e "\e[93mSDMH-Hacking-TV\e[0m";
 read -p " ╰─> " ddos
 fi
 
@@ -99,13 +99,13 @@ clear
 toilet -f slant "LIST DOS" -F metal
 echo
 echo -e "\e[96m=============================================\e[0m";
-echo $yellow"[1].WIN(TERMUX)"
-echo $yellow"[2].SUMFR(PC)"
-echo $yellow"[3].UFOSYN(PC)"
-echo $yellow"[4].XMAS(PC)"
-echo $yellow"[5].ANDROMEDA(TERMUX)"
+echo -e "\e[93m[1].WIN(TERMUX)\e[0m";
+echo -e "\e[93m[2].SUMFR(PC)\e[0m";
+echo -e "\e[93m[3].UFOSYN(PC)\e[0m";
+echo -e "\e[93m[4].XMAS(PC)\e[0m";
+echo -e "\e[93m[5].ANDROMEDA(TERMUX)\e[0m";
 echo -e "\e[96m=============================================\e[0m";
-echo $white "╭─"$yellow"SDMH-Hacking-TV"
+echo $white "╭─"-e "\e[93mSDMH-Hacking-TV\e[0m";
 read -p " ╰─> " dos
 fi
 
