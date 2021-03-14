@@ -13,7 +13,7 @@ yellow='\033[33;1m'
 clear
 toilet -f standard "SDMH-Hacking-TV" -F gay
 echo ""
-echo $green"=========================================="
+echo \033[32;1m"=========================================="
 echo $yellow"Dos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
 echo $green"=========================================="
 echo $red"===    ===    ===    ===   ===    ===   ==="
