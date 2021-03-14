@@ -3,8 +3,9 @@
 # WhatsApp :- 081249281196
 #RECODE ©®
 clear
+green='\e[96m;\e[0m";'
 blue='\033[34;1m'
-green='\033[32;1m'  
+gren='\033[32;1m 
 purple='\033[35;1m'
 cyan='\033[36;1m'
 red='\033[31;1m'
