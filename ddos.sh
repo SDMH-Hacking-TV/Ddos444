@@ -8,34 +8,34 @@ echo
 echo -e "\e[96m==========================================\e[0m";
 echo $yellow"Dos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
 echo -e "\e[96m==========================================\e[0m";
-echo $red"===    ===    ===    ===   ===    ===   ==="
+echo -e "\e[91m===    ===    ===    ===   ===    ===   ===\e[0m";
 echo $white"===    ===    ===    ===   ===    ===   ==="
-        echo $red"     ) )           ^                 "
-	echo $red"                  / \                "
-	echo $red"                 /   \               "
-	echo $red"                /     \              "
-	echo $red"  |============/ .---. \============|"
-	echo $red"  |____|______/ /     \ \_____|_____|"
+        echo -e "\e[91m     ) )           ^                 \e[0m";
+	echo -e "\e[91m                  / \                \e[0m";
+	echo -e "\e[91m                 /   \               \e[0m";
+	echo -e "\e[91m                /     \              \e[0m";
+	echo -e "\e[91m  |============/ .---. \============|\e[0m";
+	echo -e "\e[91m  |____|______/ /     \ \_____|_____|\e[0m";
 	echo -e "\e[96m  |::::::::::/  \() ()/  \::::::::::|\e[0m";
-	echo $red"  |:::::::::/{:-.) A (.-:}\:::::::::|"
-	echo $red"  |::::::::/  :-.\uuu/.-:  \::::::::|"
+	echo -e "\e[91m  |:::::::::/{:-.) A (.-:}\:::::::::|\e[0m";
+	echo -e "\e[91m  |::::::::/  :-.\uuu/.-:  \::::::::|\e[0m";
 	echo $yellow" |===================================|"
 	echo -e "\e[96m |_________SDMH-Hacking-TV___________|\e[0m";
-	echo $red"  | _________ | / || \ | __________ |"
-	echo $red"  |  |  |  |  | ====== |   |  |  |  |"
-	echo $red"  |  |--+--|  | |    | |   |--+--|  |"
-	echo $red"  |  |__|__|  | |   o| |   |__|__|  |"
-	echo $red"  |===========| |____| |============|"
+	echo -e "\e[91m  | _________ | / || \ | __________ |\e[0m";
+	echo -e "\e[91m  |  |  |  |  | ====== |   |  |  |  |\e[0m";
+	echo -e "\e[91m  |  |--+--|  | |    | |   |--+--|  |\e[0m";
+	echo -e "\e[91m  |  |__|__|  | |   o| |   |__|__|  |\e[0m";
+	echo -e "\e[91m  |===========| |____| |============|\e[0m";
 	echo $yellow"  |-----------|________|------------|"
 	echo $yellow"   (=========/__________\=========)  "
 	echo $yellow"  ','',,,,' /____________\,,,'',','  "
 	echo -e "\e[96m=============================================\e[0m";
 	echo $white"                  MENU                     "
 	echo -e "\e[96m=============================================\e[0m";
-	echo $red"[1].DDOS ATTACK.   #SDMH-Hacking-TV"
-	echo $red"[2].DoS ATTACK.    #https://facebook.com/groups/termux.help.bd"
-	echo $red"[3].BOTNET ATTACK. #https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw"
-	echo $red"[4].EXIT TOOL.     #    Thank You"
+	echo -e "\e[91m[1].DDOS ATTACK.   #SDMH-Hacking-TV\e[0m";
+	echo -e "\e[91m[2].DoS ATTACK.    #https://facebook.com/groups/termux.help.bd\e[0m";
+	echo -e "\e[91m[3].BOTNET ATTACK. #https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw\e[0m";
+	echo -e "\e[91m[4].EXIT TOOL.     #    Thank You\e[0m";
 	echo -e "\e[96m=============================================\e[0m";
 	echo $white "╭─"$yellow"SDMH-Hacking-TV"
 	read -p " ╰─> " pil
