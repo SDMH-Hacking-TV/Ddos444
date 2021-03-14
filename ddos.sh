@@ -1,12 +1,3 @@
-#!/bin/bash
-#installation
-clear
-echo ""
-echo ""
-echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://syr.us/iiW
-echo ""
-
 #Denial Of Service and ddos attack 
 # Author :- •⊱•Mrlinkerrorsystem
 # WhatsApp :- 081249281196
@@ -20,10 +11,13 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 clear
-toilet -f standard "•⊱•Mrlinkerrorsystem" -F gay
+echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
+xdg-open https://syr.us/iiW
+echo ""
+toilet -f standard "•⊱•SDMH-Hacking-TV" -F gay
 echo
 echo $green"=========================================="
-echo $yellow"DoS AND DDoS ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
+echo $yellow"Dos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
 echo $green"=========================================="
 echo $red"===    ===    ===    ===   ===    ===   ==="
 echo $white"===    ===    ===    ===   ===    ===   ==="
