@@ -3,7 +3,7 @@
 All command hear.you get command.
 Joint our facefook group.
 ```
-#Help for
+# Help for
 
 *Joint To [ Facebook](https://web.facebook.com/groups/termux.help.bd)!*
 
