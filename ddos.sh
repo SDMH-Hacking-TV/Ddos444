@@ -36,7 +36,7 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 	echo -e "\e[91m[1].DDOS ATTACK.   #SDMH-Hacking-TV\e[0m";
 	echo -e "\e[91m[2].DoS ATTACK.    #https://facebook.com/groups/termux.help.bd\e[0m";
 	echo -e "\e[91m[3].BOTNET ATTACK. #https://youtube.com/channel/SDMH-Hacking-TV\e[0m";
-        echo -e "\e[91m[4].Upgrade. #Upgrade This Program\e[0m";
+        echo -e "\e[91m[4].Upgrade.       #Upgrade This Program\e[0m";
 	echo -e "\e[91m[5].EXIT TOOL.     #    Thank You\e[0m";
 	echo -e "\e[96m=============================================\e[0m";
 	echo $white "╭─"$green"SDMH-Hacking-TV"
