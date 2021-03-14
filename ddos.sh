@@ -37,7 +37,7 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 	echo -e "\e[91m[3].BOTNET ATTACK. #https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw\e[0m";
 	echo -e "\e[91m[4].EXIT TOOL.     #    Thank You\e[0m";
 	echo -e "\e[96m=============================================\e[0m";
-	echo $white "╭─""\e[93mSDMH-Hacking-TV\e[0m";
+	echo $white "╭─"-e "\e[93mSDMH-Hacking-TV\e[0m";
 	read -p " ╰─> " pil
 
 #DDOS
