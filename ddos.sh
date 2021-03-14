@@ -179,7 +179,7 @@ if [ $Upgrade = 4 ] || [ Upgrade = 4 ]
 then
 clear
 toilet -f slant " Upgrade" -F gay
-python2 Upgrade.py
+python2 up.py
 fi
 
 #exit
