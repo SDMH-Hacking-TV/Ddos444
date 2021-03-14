@@ -14,7 +14,7 @@ clear
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
 xdg-open https://syr.us/iiW
 echo ""
-toilet -f standard "•⊱•SDMH-Hacking-TV" -F gay
+toilet -f standard "SDMH-Hacking-TV" -F gay
 echo
 echo $green"=========================================="
 echo $yellow"Dos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
