@@ -11,9 +11,6 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 clear
-echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://syr.us/iiW
-echo ""
 toilet -f standard "SDMH-Hacking-TV" -F gay
 echo
 echo $green"=========================================="
