@@ -3,7 +3,6 @@
 # WhatsApp :- 081249281196
 #RECODE ©®
 clear
-green=\e[96m;\e[0m";
 blue='\033[34;1m'
 gren='\033[32;1m 
 purple='\033[35;1m'
@@ -14,7 +13,7 @@ yellow='\033[33;1m'
 clear
 toilet -f standard "SDMH-Hacking-TV" -F gay
 echo 
-echo $green"=========================================="
+echo -e "\e[96m;==========================================\e[0m";
 echo $yellow"Dos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
 echo $green"=========================================="
 echo $red"===    ===    ===    ===   ===    ===   ==="
