@@ -35,11 +35,12 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 	echo -e "\e[96m=============================================\e[0m";
 	echo -e "\e[91m[1].DDOS ATTACK.   #SDMH-Hacking-TV\e[0m";
 	echo -e "\e[91m[2].DoS ATTACK.    #https://facebook.com/groups/termux.help.bd\e[0m";
-	echo -e "\e[91m[3].BOTNET ATTACK. #https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw\e[0m";
-	echo -e "\e[91m[4].EXIT TOOL.     #    Thank You\e[0m";
+	echo -e "\e[91m[3].BOTNET ATTACK. #https://youtube.com/channel/SDMH-Hacking-TV\e[0m";
+        echo -e "\e[91m[4].Upgrade. #Upgrade This Program\e[0m";
+	echo -e "\e[91m[5].EXIT TOOL.     #    Thank You\e[0m";
 	echo -e "\e[96m=============================================\e[0m";
 	echo $white "╭─"$green"SDMH-Hacking-TV"
-	read -p " ╰─> " pil
+	read -p "╰─> " pil
 
 #DDOS
 
@@ -56,7 +57,7 @@ echo -e "\e[93m[4].POF ARMAGEDON LEVEL\e[0m";
 echo -e "\e[93m[5].LORIS\e[0m";
 echo -e "\e[96m=============================================\e[0m";
 echo $white "╭─"$green"SDMH-Hacking-TV"
-read -p " ╰─> " ddos
+read -p "╰─> " ddos
 fi
 
 if [ $ddos = 1 ] || [ $ddos = 1 ]
@@ -76,6 +77,13 @@ then
 clear
 python2 TheSploit.py
 fi
+
+if [ $ddos = 4 ] || [ $ddos = 4 ]
+then
+clear
+python2 arma.py
+fi
+
 
 if [ $ddos = 4 ] || [ $ddos = 4 ]
 then
@@ -107,7 +115,7 @@ echo -e "\e[93m[4].XMAS(PC)\e[0m";
 echo -e "\e[93m[5].ANDROMEDA(TERMUX)\e[0m";
 echo -e "\e[96m=============================================\e[0m";
 echo $white "╭─"$green"SDMH-Hacking-TV"
-read -p " ╰─> " dos
+read -p "╰─> " dos
 fi
 
 
@@ -165,9 +173,18 @@ read -p "==>" bot
 python2 Botnet.py -s$bot -p80 -t100
 fi
 
+#Upgrade
+
+if [ $Upgrade = 4 ] || [ Upgrade = 4 ]
+then
+clear
+toilet -f slant " Upgrade" -F gay
+python2 Upgrade.py
+fi
+
 #exit
 
-if [ $pil = 4 ] || [ pil = 4 ]
+if [ $pil = 5 ] || [ pil = 5 ]
 then
 clear
 exit
