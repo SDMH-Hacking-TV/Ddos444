@@ -5,9 +5,9 @@
 clear
 toilet -f standard "SDMH-Hacking-TV" -F gay
 echo 
-echo -e "\e[96m;==========================================\e[0m";
+echo -e "\e[96m==========================================\e[0m";
 echo $yellow"Dos And Ddos ATTACK LAUCH VIA TOOL:SDMH-Hacking-TV"
-echo -e "\e[96m;==========================================\e[0m";
+echo -e "\e[96m==========================================\e[0m";
 echo $red"===    ===    ===    ===   ===    ===   ==="
 echo $white"===    ===    ===    ===   ===    ===   ==="
         echo $red"     ) )           ^                 "
@@ -16,11 +16,11 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 	echo $red"                /     \              "
 	echo $red"  |============/ .---. \============|"
 	echo $red"  |____|______/ /     \ \_____|_____|"
-	echo $green"  |::::::::::/  \() ()/  \::::::::::|"
+	echo -e "\e[96m  |::::::::::/  \() ()/  \::::::::::|\e[0m";
 	echo $red"  |:::::::::/{:-.) A (.-:}\:::::::::|"
 	echo $red"  |::::::::/  :-.\uuu/.-:  \::::::::|"
 	echo $yellow" |===================================|"
-	echo $green" |_________SDMH-Hacking-TV___________|"
+	echo -e "\e[96m |_________SDMH-Hacking-TV___________|\e[0m";
 	echo $red"  | _________ | / || \ | __________ |"
 	echo $red"  |  |  |  |  | ====== |   |  |  |  |"
 	echo $red"  |  |--+--|  | |    | |   |--+--|  |"
@@ -29,14 +29,14 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 	echo $yellow"  |-----------|________|------------|"
 	echo $yellow"   (=========/__________\=========)  "
 	echo $yellow"  ','',,,,' /____________\,,,'',','  "
-	echo $green"==========================================="
+	echo -e "\e[96m=============================================\e[0m";
 	echo $white"                  MENU                     "
-	echo $green"============================================="
+	echo -e "\e[96m=============================================\e[0m";
 	echo $red"[1].DDOS ATTACK.   #SDMH-Hacking-TV"
 	echo $red"[2].DoS ATTACK.    #https://facebook.com/groups/termux.help.bd"
 	echo $red"[3].BOTNET ATTACK. #https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw"
 	echo $red"[4].EXIT TOOL.     #    Thank You"
-	echo $green"============================================="
+	echo -e "\e[96m=============================================\e[0m";
 	echo $white "╭─"$yellow"SDMH-Hacking-TV"
 	read -p " ╰─> " pil
 
@@ -47,13 +47,13 @@ then
 clear
 toilet -f slant "LIST DDOS" -F metal
 echo
-echo $green"============================================="
+echo -e "\e[96m=============================================\e[0m";
 echo $yellow"[1].LOIC"
 echo $yellow"[2].AMNESIA"
 echo $yellow"[3].PING OF DEADHT"
 echo $yellow"[4].POF ARMAGEDON LEVEL"
 echo $yellow"[5].LORIS"
-echo $green"============================================="
+echo -e "\e[96m=============================================\e[0m";
 echo $white "╭─"$yellow"SDMH-Hacking-TV"
 read -p " ╰─> " ddos
 fi
@@ -98,13 +98,13 @@ then
 clear
 toilet -f slant "LIST DOS" -F metal
 echo
-echo $green"============================================="
+echo -e "\e[96m=============================================\e[0m";
 echo $yellow"[1].WIN(TERMUX)"
 echo $yellow"[2].SUMFR(PC)"
 echo $yellow"[3].UFOSYN(PC)"
 echo $yellow"[4].XMAS(PC)"
 echo $yellow"[5].ANDROMEDA(TERMUX)"
-echo $green"============================================="
+echo -e "\e[96m=============================================\e[0m";
 echo $white "╭─"$yellow"SDMH-Hacking-TV"
 read -p " ╰─> " dos
 fi
